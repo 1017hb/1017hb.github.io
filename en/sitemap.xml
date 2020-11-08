@@ -360,6 +360,20 @@
   </url>
   
   <url>
+    <loc>https://1017hb.github.io/project/rio-furniture-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://1017hb.github.io/fr/project/rio-furniture-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://1017hb.github.io/project/rio-furniture-1/"
+                />
+  </url>
+  
+  <url>
     <loc>https://1017hb.github.io/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -412,20 +426,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://1017hb.github.io/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://1017hb.github.io/project/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://1017hb.github.io/fr/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://1017hb.github.io/project/rio-furniture-1/"
                 />
   </url>
   
